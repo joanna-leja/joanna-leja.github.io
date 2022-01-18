@@ -1,2 +1,2 @@
 # joanna-leja.github.io
-# My projects
+# My projects: 1, 2, 3
